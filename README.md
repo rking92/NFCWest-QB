@@ -6,7 +6,7 @@ NFC West QB is a JS application that leverages DOM manipulatioin to interact wit
 
 ## Installation
 
-To install, just fork and clone this repository. Once cloned in your terminal, make sure you cd into the correct folder.
+To install, fork and clone this repository. Once cloned in your terminal, make sure you cd into the correct folder.
 
 ## Usage
 

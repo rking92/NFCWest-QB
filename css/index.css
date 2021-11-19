@@ -1,0 +1,7 @@
+body {
+    background-color: #969BEB;
+    display: flex;
+    align-items: center;
+    perspective: 700px;
+    font-size: clamp{10px, 2vw, 20px};
+}
