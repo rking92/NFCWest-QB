@@ -1,0 +1,36 @@
+{
+    "stats": [
+        {
+            "id": 0,
+            "name": "Russell Wilson",
+            "passing yards": "4212",
+            "TD": "40",
+            "Int": "13",
+            "Rating": "105.1"
+        },
+        {
+            "id": 1,
+            "name": "Kyler Murray",
+            "passing yards": "3971",
+            "TD": "26",
+            "Int": "12",
+            "Rating": "94.3"
+        },
+        {
+            "id": 2,
+            "name": "Nick Mullens",
+            "passing yards": "2437",
+            "TD": "12",
+            "Int": "12",
+            "Rating": "84.1"
+        },
+        {
+            "id": 3,
+            "name": "Jared Goff",
+            "passing yards": "3952",
+            "TD": "20",
+            "Int": "13",
+            "Rating": "90"
+        }
+    ]
+}
